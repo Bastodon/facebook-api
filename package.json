@@ -1,0 +1,22 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "Examen de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bastodon/facebook-api.git"
+  },
+  "author": "Leray Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bastodon/facebook-api/issues"
+  },
+  "homepage": "https://github.com/Bastodon/facebook-api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
